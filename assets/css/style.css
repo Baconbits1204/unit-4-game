@@ -1,0 +1,58 @@
+body{
+    background: teal
+}
+
+h1{
+    background: orange
+
+}
+
+.target-num {
+background: tan;
+width: 200px;
+height: 200px;
+}
+
+.ruby-number{
+    background: url(../images/ruby.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+    width: 150px;
+height: 150px;
+}
+
+.emerald-number{
+    background: url(../images/emerald.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+    width: 150px;
+height: 150px;
+}
+
+.sapphire-number{
+    background: url(../images/sapphire.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+    width: 150px;
+height: 150px;
+}
+
+.amber-number{
+    background: url(../images/amber.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+    width: 150px;
+height: 150px;}
+
+
+.current-number{
+    background: purple;
+    width: 150px;
+height: 150px;
+}
+
+.win-loss {
+    background: coral;
+    width: 200px;
+height: 200px;
+}
