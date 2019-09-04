@@ -3,8 +3,13 @@ body{
 }
 
 h1{
-    background: orange
+    background: orange;
+    font-size: 30px;
+}
 
+h2{
+    background: orange;
+    font-size: 20px;
 }
 
 .target-num {
