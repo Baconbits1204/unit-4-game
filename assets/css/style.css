@@ -8,7 +8,7 @@ h1{
 }
 
 h2{
-    background: orange;
+    background:yellow;
     font-size: 20px;
 }
 
@@ -23,7 +23,7 @@ height: 200px;
     background-size: 150px;
     background-repeat: no-repeat;
     width: 150px;
-height: 150px;
+    height: 150px;
 }
 
 .emerald-number{
@@ -50,14 +50,16 @@ height: 150px;
 height: 150px;}
 
 
-.current-number{
+#current-number-box{
     background: purple;
     width: 150px;
-height: 150px;
+    height: 150px;
+    color: yellowgreen
 }
 
 .win-loss {
     background: coral;
     width: 200px;
 height: 200px;
+font-size: 18px
 }
