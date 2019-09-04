@@ -20,15 +20,15 @@ height: 200px;
 
 .ruby-number{
     background: url(../images/ruby.jpg);
-    background-size: cover;
-        background-repeat: no-repeat;
+    background-size: 150px;
+    background-repeat: no-repeat;
     width: 150px;
 height: 150px;
 }
 
 .emerald-number{
     background: url(../images/emerald.jpg);
-    background-size: cover;
+    background-size: 150px;
         background-repeat: no-repeat;
     width: 150px;
 height: 150px;
@@ -36,7 +36,7 @@ height: 150px;
 
 .sapphire-number{
     background: url(../images/sapphire.jpg);
-    background-size: cover;
+    background-size: 150px;
         background-repeat: no-repeat;
     width: 150px;
 height: 150px;
@@ -44,7 +44,7 @@ height: 150px;
 
 .amber-number{
     background: url(../images/amber.jpg);
-    background-size: cover;
+    background-size: 150px;
         background-repeat: no-repeat;
     width: 150px;
 height: 150px;}
