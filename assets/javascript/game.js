@@ -51,22 +51,22 @@ $('#target-num').text(targetNum);
 start();
 
 
-$('#ruby-btn').click(function(){
+$('.ruby-number').click(function(){
     currentNum = currentNum + chrystal1;
     numberTracker(currentNum);
     compareNumbers(currentNum, targetNum);
  });
-$('#emerald-btn').click(function(){
+$('.emerald-number').click(function(){
     currentNum = currentNum + chrystal2;
     numberTracker(currentNum);
-    compareNumbers(currentNum, targetNum);
+compareNumbers(currentNum, targetNum);
 });
-$('#sapphire-btn').click(function(){
+$('.sapphire-number').click(function(){
     currentNum = currentNum + chrystal3;
     numberTracker(currentNum);
     compareNumbers(currentNum, targetNum);
 });
-$('#amber-btn').click(function(){
+$('.amber-number').click(function(){
     currentNum = currentNum + chrystal4; 
     numberTracker(currentNum);
     compareNumbers(currentNum, targetNum);
